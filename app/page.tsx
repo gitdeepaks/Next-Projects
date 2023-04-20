@@ -6,7 +6,7 @@ async function HomePage () {
   
   return (
     <div className='center'>
-        <h1 className=" center bg-slate-300  text-4xl text-red-500"> ChatGPT-Clone</h1>
+        <h1 className=" center bg-slate-300  text-6xl text-blue-500"> ChatGPT-Clone</h1>
         <ChatBox />
     </div>
   )
